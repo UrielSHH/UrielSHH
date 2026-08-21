@@ -1,0 +1,6 @@
+auth_state.json
+saved_videos.json
+__pycache__/
+*.pyc
+.venv/
+venv/

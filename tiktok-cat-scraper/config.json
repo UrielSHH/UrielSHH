@@ -1,0 +1,12 @@
+{
+  "search_terms": [
+    "funny cats",
+    "fat cats",
+    "cute cats",
+    "cats being weird",
+    "cat fails"
+  ],
+  "max_scrolls": 4,
+  "delay_range_seconds": [2, 5],
+  "headless": true
+}
